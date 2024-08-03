@@ -1,4 +1,4 @@
-public class EnHunderassen {
+public class MainHunderassen {
     public static void main(String[] args) {
         Hundrassen dackel= Hundrassen.DACKEL;
         Hundrassen collie= Hundrassen.COLLIE;
